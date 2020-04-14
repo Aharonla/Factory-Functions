@@ -7,3 +7,5 @@ const robotFactory = (model, mobile) => {
     }
   }
 }
+
+const tinCan = robotFactory('P-500', true);
